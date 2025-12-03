@@ -13,6 +13,38 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\gulse\\OneDrive\\Masaüstü\\10-RazerPagesExample\\razorpages\\wwwroot\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gulse\\OneDrive\\Masaüstü\\10-RazerPagesExample\\razorpages\\wwwroot\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gulse\\OneDrive\\Masaüstü\\10-RazerPagesExample\\razorpages\\wwwroot\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gulse\\OneDrive\\Masaüstü\\10-RazerPagesExample\\razorpages\\wwwroot\\img\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gulse\\OneDrive\\Masaüstü\\10-RazerPagesExample\\razorpages\\wwwroot\\img\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gulse\\OneDrive\\Masaüstü\\10-RazerPagesExample\\razorpages\\wwwroot\\img\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gulse\\OneDrive\\Masaüstü\\10-RazerPagesExample\\razorpages\\wwwroot\\img\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gulse\\OneDrive\\Masaüstü\\10-RazerPagesExample\\razorpages\\wwwroot\\img\\8.jpg",
+      "PackagePath": "staticwebassets\\img\\8.jpg"
+    },
+    {
       "Id": "C:\\Users\\gulse\\OneDrive\\Masaüstü\\10-RazerPagesExample\\razorpages\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
