@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\gulse\OneDrive\Masaüstü\10-RazerPagesExample\razorpages
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/gulse/OneDrive/Masaüstü/10-RazerPagesExample/razorpages/Pages/Employees/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/gulse/OneDrive/Masaüstü/10-RazerPagesExample/razorpages/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
